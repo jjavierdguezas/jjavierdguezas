@@ -1,4 +1,6 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjavierdguezas" alt="jjavierdguezas" /> </p>
+
 I'm José Javier, but everyone calls me "JJ"
 
 I love music 🎸, math 🤓 and coding 💻
