@@ -17,3 +17,7 @@ Proud to be Cuban <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250
 
 <!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
 ![](https://hit.yhype.me/github/profile?user_id=13673443)
+
+Finally, here is a joke 😅:
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=graywhite)
