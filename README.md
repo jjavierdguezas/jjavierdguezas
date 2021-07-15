@@ -20,4 +20,4 @@ Proud to be Cuban <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250
 
 Finally, here is a joke 😅:
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=graywhite)
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23FFF&borderColor=black&qColor=%232f80ed&aColor=black&textColor=black&codeColor=black)
