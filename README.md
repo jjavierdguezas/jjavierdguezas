@@ -15,9 +15,9 @@ Proud to be Cuban <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250
 
 <img alt="JJ's top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjavierdguezas&layout=compact" />
 
-<!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
-![](https://hit.yhype.me/github/profile?user_id=13673443)
-
 Finally, here is a joke 😅:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23FFF&borderColor=black&qColor=%232f80ed&aColor=black&textColor=black&codeColor=black)
+
+<!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
+![](https://hit.yhype.me/github/profile?user_id=13673443)
